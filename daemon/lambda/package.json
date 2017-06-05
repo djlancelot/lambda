@@ -1,4 +1,4 @@
 {
   "name": "lambda",
-  "main": "lambda.js"
+  "main": "handler.js"
 }
